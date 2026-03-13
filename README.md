@@ -187,7 +187,7 @@ Click **New Repository** and copy the repository URL.
 ### 5️⃣ Connect Local Project to GitHub
 
 ```bash
-git remote add origin https://github.com/yourusername/AI-Study-Assistant.git
+git remote add origin https://github.com/ilapandaranjitha2007-python/AI-Study-Assistant.git
 ```
 
 ---
